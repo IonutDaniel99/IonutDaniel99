@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IonutDaniel99
 - 👀 I’m interested in Frontend and Design
 - 🌱 I’m currently learning Design(Figma) and React Native(for Android)
-- 💞️ I’m npt looking to collaborate on.
+- 💞️ I’m not looking to collaborate on.
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/ionut-daniel-ene/)
 
 <!---
