@@ -58,7 +58,7 @@
     </tr>
 </table>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ionutdaniel99&show_icons=true&locale=en" alt="ionutdaniel99" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ionutdaniel99&show_icons=true&locale=en" alt="ionutdaniel99" /></p>
 <p><img align="left" style="margin-top: 10px" src="https://github-readme-streak-stats.herokuapp.com/?user=ionutdaniel99&" alt="ionutdaniel99" /></p>
 
 
