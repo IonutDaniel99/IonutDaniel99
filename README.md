@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working for [Endava PLC](https://www.endava.com/)
 - 🌱 I’m currently learning **Web Design, SolidJS and C# .Net 6**
-- 👨‍💻 All of my projects are available at **[this portfolio](https://ionutdaniel.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[this portfolio](https://ionutdaniel.vercel.app/)**
 - 📫 Here you can reach me **[Linkedin](https://www.linkedin.com/in/ionut-daniel-ene/)**
 - ⚡ My hobbies are **to play videogames and spend time with people.**
 
@@ -23,7 +23,7 @@
         <td style="text-align: center;"><b>Type</b></td>
         <td style="text-align: center;"><b>Technology</b></td>
         <td rowspan="8" style="height: 100%; border:none">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionutdaniel99&hide=blade,php,shaderLab&langs_count=8" alt="ionutdaniel99" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionutdaniel99&hide=blade,php,shaderLab,hlsl,java,c++&langs_count=4" alt="ionutdaniel99" />
         </td>
     </tr>
     <tr>
