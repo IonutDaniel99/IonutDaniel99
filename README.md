@@ -4,7 +4,7 @@
 <br />
 
 - 🔭 I’m currently working for [Endava PLC](https://www.endava.com/)
-- 🌱 I’m currently learning **Web Design and NextJs**
+- 🌱 I’m currently learning **Web Design and NodeJs**
 - 📫 Here you can reach me **[Linkedin](https://www.linkedin.com/in/ionut-daniel-ene/)**
 - ⚡ My hobbies are **to play videogames and spend time with people.**
 
