@@ -22,7 +22,7 @@
         <td style="text-align: center;"><b>Type</b></td>
         <td style="text-align: center;"><b>Technology</b></td>
         <td rowspan="8" style="height: 100%; border:none">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionutdaniel99&hide=blade,php,shaderLab,hlsl,java,c++&langs_count=4" alt="ionutdaniel99" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionutdaniel99&hide=blade,php,shaderLab,hlsl,java,c++&langs_count=6" alt="ionutdaniel99" />
         </td>
     </tr>
     <tr>
