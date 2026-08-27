@@ -6,5 +6,5 @@
 - 📫 Here you can reach me **[Linkedin](https://www.linkedin.com/in/ionut-daniel-ene/)**
 - ⚡ My hobbies are **to play videogames and spend time with people.**
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ionutdaniel99&layout=compact&theme=react)
+![WakaTime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=ionutdaniel99&layout=compact&theme=react)
 
